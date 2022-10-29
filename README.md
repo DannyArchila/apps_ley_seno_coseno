@@ -14,3 +14,4 @@ Danny Josue Archila Alvarez
 para la clase de Precalculo de la carrera de Ingenieria en sistemas.
 Sección C 
 Ing. Byron CarranzaUMG
+
