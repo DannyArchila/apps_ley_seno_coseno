@@ -7,9 +7,9 @@ y sus 3 angulos .
 
 Este programa de calculo fue realizado por 
 
-Walter Rene Rosales 
-William Steve Molina Garcias 
-Danny Josue Archila Alvarez
+Walter Rene Rosales.
+William Steve Molina Garcias. 
+Danny Josue Archila Alvarez.
 
 para la clase de Precalculo de la carrera de Ingenieria en sistemas.
 Sección C 
